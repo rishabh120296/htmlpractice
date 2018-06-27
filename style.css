@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main_div{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.quotes{
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
